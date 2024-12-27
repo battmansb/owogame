@@ -1,0 +1,6 @@
+{
+    "example": ["demo", "illustration", "sample", "model"],
+    "game": ["play", "competition", "sport", "match"],
+    "program": ["software", "code", "application", "script"],
+    "secret": ["hidden", "mystery", "confidential", "unknown"]
+}
